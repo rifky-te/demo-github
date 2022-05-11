@@ -1,4 +1,7 @@
 -Apel
--Jeruk
--Semangka
+-
+-
 -Alpukat
+
+-Jambu
+-Salak
